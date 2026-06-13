@@ -1,0 +1,46 @@
+name: Steam売れ筋ランキング チェック
+
+on:
+  schedule:
+    # 毎時00分（UTC）に実行 = 日本時間では毎時9時間後
+    # 例: UTC 0:00 = JST 9:00
+    - cron: '0 * * * *'
+  workflow_dispatch:  # GitHub上から手動実行ボタンを追加
+
+permissions:
+  contents: write  # data/latest_ranking.json をコミット・プッシュするために必要
+
+jobs:
+  check-ranking:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Python 3.12 をセットアップ
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: ライブラリをインストール
+        run: pip install -r requirements.txt
+
+      - name: ランキングチェックを実行
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          STEAM_REGION: JP
+          TOP_N: "50"
+        run: python main.py run
+
+      - name: ランキングデータをコミット・プッシュ
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/latest_ranking.json
+          if git diff --staged --quiet; then
+            echo "変更なし。コミットをスキップします。"
+          else
+            git commit -m "chore: ランキングデータ更新 [skip ci]"
+            git push
+          fi

@@ -1,0 +1,13 @@
+# ローカル設定（シークレットが入るためコミットしない）
+.env
+
+# ログ（ローカルのみ）
+logs/
+
+# Python キャッシュ
+__pycache__/
+*.pyc
+*.pyo
+
+# 旧SQLite DB（使用しない）
+steam_rankings.db
