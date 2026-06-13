@@ -2,13 +2,18 @@ name: Steam売れ筋ランキング チェック
 
 on:
   schedule:
-    # 毎時00分（UTC）に実行 = 日本時間では毎時9時間後
-    # 例: UTC 0:00 = JST 9:00
+    # 毎時00分（UTC）に実行
     - cron: '0 * * * *'
-  workflow_dispatch:  # GitHub上から手動実行ボタンを追加
+  workflow_dispatch:
+    inputs:
+      force_notify:
+        description: '強制通知する（テスト用）'
+        required: false
+        default: false
+        type: boolean
 
 permissions:
-  contents: write  # data/latest_ranking.json をコミット・プッシュするために必要
+  contents: write
 
 jobs:
   check-ranking:
@@ -31,7 +36,12 @@ jobs:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           STEAM_REGION: JP
           TOP_N: "50"
-        run: python main.py run
+        run: |
+          if [ "${{ github.event.inputs.force_notify }}" = "true" ]; then
+            python main.py run --force-notify
+          else
+            python main.py run
+          fi
 
       - name: ランキングデータをコミット・プッシュ
         run: |
