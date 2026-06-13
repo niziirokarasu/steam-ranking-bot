@@ -1,6 +1,9 @@
 # ローカル設定（シークレットが入るためコミットしない）
 .env
 
+# 仮想環境（GitHub Actionsは requirements.txt から都度インストールするので不要）
+.venv/
+
 # ログ（ローカルのみ）
 logs/
 
