@@ -6,7 +6,7 @@
     "app_id": "1172470",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 2,
@@ -15,7 +15,7 @@
     "app_id": "2357570",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 3,
@@ -24,25 +24,25 @@
     "app_id": "730",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 4,
+    "title": "リバース：1999",
+    "url": "https://store.steampowered.com/app/3092660/",
+    "app_id": "3092660",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-08-13T16:02:56.962165"
+  },
+  {
+    "rank": 5,
     "title": "Escape from Tarkov",
     "url": "https://store.steampowered.com/app/3932890/",
     "app_id": "3932890",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
-  },
-  {
-    "rank": 5,
-    "title": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
-    "url": "https://store.steampowered.com/app/2552430/",
-    "app_id": "2552430",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 6,
@@ -51,16 +51,16 @@
     "app_id": "438100",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 7,
-    "title": "リバース：1999",
-    "url": "https://store.steampowered.com/app/3092660/",
-    "app_id": "3092660",
+    "title": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
+    "url": "https://store.steampowered.com/app/2552430/",
+    "app_id": "2552430",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 8,
@@ -69,7 +69,7 @@
     "app_id": "3934250",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 9,
@@ -78,25 +78,25 @@
     "app_id": "4108000",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 10,
-    "title": "ペルソナ５: The Phantom X",
-    "url": "https://store.steampowered.com/app/3061570/",
-    "app_id": "3061570",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
-  },
-  {
-    "rank": 11,
     "title": "Big Walk",
     "url": "https://store.steampowered.com/app/1478500/",
     "app_id": "1478500",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
+  },
+  {
+    "rank": 11,
+    "title": "ペルソナ５: The Phantom X",
+    "url": "https://store.steampowered.com/app/3061570/",
+    "app_id": "3061570",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 12,
@@ -105,7 +105,7 @@
     "app_id": "3787240",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 13,
@@ -114,43 +114,43 @@
     "app_id": "1364780",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 14,
-    "title": "Yu-Gi-Oh! Master Duel",
-    "url": "https://store.steampowered.com/app/1449850/",
-    "app_id": "1449850",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
-  },
-  {
-    "rank": 15,
     "title": "ゼンレスゾーンゼロ",
     "url": "https://store.steampowered.com/app/4162040/",
     "app_id": "4162040",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
+  },
+  {
+    "rank": 15,
+    "title": "Yu-Gi-Oh! Master Duel",
+    "url": "https://store.steampowered.com/app/1449850/",
+    "app_id": "1449850",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 16,
-    "title": "Palworld / パルワールド",
-    "url": "https://store.steampowered.com/app/1623730/",
-    "app_id": "1623730",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
-  },
-  {
-    "rank": 17,
     "title": "Wuthering Waves",
     "url": "https://store.steampowered.com/app/3513350/",
     "app_id": "3513350",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
+  },
+  {
+    "rank": 17,
+    "title": "Palworld / パルワールド",
+    "url": "https://store.steampowered.com/app/1623730/",
+    "app_id": "1623730",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 18,
@@ -159,7 +159,7 @@
     "app_id": "553850",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 19,
@@ -168,52 +168,52 @@
     "app_id": "4704690",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 20,
-    "title": "マーベル・ライバルズ",
-    "url": "https://store.steampowered.com/app/2767030/",
-    "app_id": "2767030",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
-  },
-  {
-    "rank": 21,
-    "title": "スローン・アンド・リバティ",
-    "url": "https://store.steampowered.com/app/2429640/",
-    "app_id": "2429640",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
-  },
-  {
-    "rank": 22,
     "title": "星の翼",
     "url": "https://store.steampowered.com/app/2764370/",
     "app_id": "2764370",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
-    "rank": 23,
+    "rank": 21,
+    "title": "マーベル・ライバルズ",
+    "url": "https://store.steampowered.com/app/2767030/",
+    "app_id": "2767030",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-08-13T16:02:56.962165"
+  },
+  {
+    "rank": 22,
     "title": "デッドバイデイライト",
     "url": "https://store.steampowered.com/app/381210/",
     "app_id": "381210",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
+  },
+  {
+    "rank": 23,
+    "title": "ハートピアスローライフ",
+    "url": "https://store.steampowered.com/app/4025700/",
+    "app_id": "4025700",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 24,
-    "title": "ホロライブドリームス",
-    "url": "https://store.steampowered.com/app/4282500/",
-    "app_id": "4282500",
+    "title": "日本事故物件監視協会3 -Japan Stigmatized Property-",
+    "url": "https://store.steampowered.com/app/4611990/",
+    "app_id": "4611990",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 25,
@@ -222,16 +222,16 @@
     "app_id": "2161700",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 26,
-    "title": "日本事故物件監視協会3 -Japan Stigmatized Property-",
-    "url": "https://store.steampowered.com/app/4611990/",
-    "app_id": "4611990",
+    "title": "スローン・アンド・リバティ",
+    "url": "https://store.steampowered.com/app/2429640/",
+    "app_id": "2429640",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 27,
@@ -240,16 +240,16 @@
     "app_id": "3282300",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 28,
-    "title": "NTE: Neverness to Everness",
-    "url": "https://store.steampowered.com/app/4508340/",
-    "app_id": "4508340",
+    "title": "ホロライブドリームス",
+    "url": "https://store.steampowered.com/app/4282500/",
+    "app_id": "4282500",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 29,
@@ -258,7 +258,7 @@
     "app_id": "2291060",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 30,
@@ -267,61 +267,61 @@
     "app_id": "252490",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 31,
-    "title": "ハートピアスローライフ",
-    "url": "https://store.steampowered.com/app/4025700/",
-    "app_id": "4025700",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
-  },
-  {
-    "rank": 32,
     "title": "Once Human",
     "url": "https://store.steampowered.com/app/2139460/",
     "app_id": "2139460",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
-    "rank": 33,
+    "rank": 32,
     "title": "Wizardry Variants Daphne",
     "url": "https://store.steampowered.com/app/2379740/",
     "app_id": "2379740",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
+  },
+  {
+    "rank": 33,
+    "title": "NTE: Neverness to Everness",
+    "url": "https://store.steampowered.com/app/4508340/",
+    "app_id": "4508340",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 34,
-    "title": "Forza Horizon 6",
-    "url": "https://store.steampowered.com/app/2483190/",
-    "app_id": "2483190",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
-  },
-  {
-    "rank": 35,
     "title": "STEINS;GATE RE:BOOT",
     "url": "https://store.steampowered.com/app/4012810/",
     "app_id": "4012810",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
+  },
+  {
+    "rank": 35,
+    "title": "PUBG: BATTLEGROUNDS",
+    "url": "https://store.steampowered.com/app/578080/",
+    "app_id": "578080",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 36,
-    "title": "GRANBLUE FANTASY: Relink",
-    "url": "https://store.steampowered.com/app/881020/",
-    "app_id": "881020",
+    "title": "Hell Let Loose: Vietnam",
+    "url": "https://store.steampowered.com/app/3079210/",
+    "app_id": "3079210",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 37,
@@ -330,115 +330,115 @@
     "app_id": "1367080",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 38,
+    "title": "Forza Horizon 6",
+    "url": "https://store.steampowered.com/app/2483190/",
+    "app_id": "2483190",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-08-13T16:02:56.962165"
+  },
+  {
+    "rank": 39,
+    "title": "GRANBLUE FANTASY: Relink",
+    "url": "https://store.steampowered.com/app/881020/",
+    "app_id": "881020",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-08-13T16:02:56.962165"
+  },
+  {
+    "rank": 40,
     "title": "Slay the Spire 2",
     "url": "https://store.steampowered.com/app/2868840/",
     "app_id": "2868840",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
-    "rank": 39,
-    "title": "PUBG: BATTLEGROUNDS",
-    "url": "https://store.steampowered.com/app/578080/",
-    "app_id": "578080",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
-  },
-  {
-    "rank": 40,
+    "rank": 41,
     "title": "eFootball™",
     "url": "https://store.steampowered.com/app/1665460/",
     "app_id": "1665460",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
-  },
-  {
-    "rank": 41,
-    "title": "Hell Let Loose: Vietnam",
-    "url": "https://store.steampowered.com/app/3079210/",
-    "app_id": "3079210",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 42,
-    "title": "真・女神転生Ⅴ Vengeance",
-    "url": "https://store.steampowered.com/app/1875830/",
-    "app_id": "1875830",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
-  },
-  {
-    "rank": 43,
-    "title": "黒神話：悟空",
-    "url": "https://store.steampowered.com/app/2358720/",
-    "app_id": "2358720",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
-  },
-  {
-    "rank": 44,
     "title": "Ragnarok: The New World",
     "url": "https://store.steampowered.com/app/4212480/",
     "app_id": "4212480",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
+  },
+  {
+    "rank": 43,
+    "title": "真・女神転生Ⅴ Vengeance",
+    "url": "https://store.steampowered.com/app/1875830/",
+    "app_id": "1875830",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-08-13T16:02:56.962165"
+  },
+  {
+    "rank": 44,
+    "title": "黒神話：悟空",
+    "url": "https://store.steampowered.com/app/2358720/",
+    "app_id": "2358720",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 45,
-    "title": "モンスターハンターワイルズ",
-    "url": "https://store.steampowered.com/app/2246340/",
-    "app_id": "2246340",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
-  },
-  {
-    "rank": 46,
-    "title": "VanySlash",
-    "url": "https://store.steampowered.com/app/2871010/",
-    "app_id": "2871010",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
-  },
-  {
-    "rank": 47,
     "title": "ARK: Survival Ascended",
     "url": "https://store.steampowered.com/app/2399830/",
     "app_id": "2399830",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
+  },
+  {
+    "rank": 46,
+    "title": "RimWorld",
+    "url": "https://store.steampowered.com/app/294100/",
+    "app_id": "294100",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-08-13T16:02:56.962165"
+  },
+  {
+    "rank": 47,
+    "title": "VanySlash",
+    "url": "https://store.steampowered.com/app/2871010/",
+    "app_id": "2871010",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 48,
-    "title": "ELDEN RING NIGHTREIGN",
-    "url": "https://store.steampowered.com/app/2622380/",
-    "app_id": "2622380",
+    "title": "メタファー：リファンタジオ",
+    "url": "https://store.steampowered.com/app/2679460/",
+    "app_id": "2679460",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 49,
-    "title": "響き、夢境に",
-    "url": "https://store.steampowered.com/app/3226060/",
-    "app_id": "3226060",
+    "title": "モンスターハンターワイルズ",
+    "url": "https://store.steampowered.com/app/2246340/",
+    "app_id": "2246340",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
   },
   {
     "rank": 50,
@@ -447,6 +447,6 @@
     "app_id": "1687950",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-08-13T14:57:27.764339"
+    "timestamp": "2026-08-13T16:02:56.962165"
   }
 ]
