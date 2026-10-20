@@ -6,7 +6,7 @@
     "app_id": "3393110",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
     "rank": 2,
@@ -15,7 +15,7 @@
     "app_id": "1172470",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
     "rank": 3,
@@ -24,7 +24,7 @@
     "app_id": "4435490",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
     "rank": 4,
@@ -33,43 +33,43 @@
     "app_id": "3259780",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
     "rank": 5,
-    "title": "Japanese Ramen Simulator",
-    "url": "https://store.steampowered.com/app/4968640/",
-    "app_id": "4968640",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
-  },
-  {
-    "rank": 6,
     "title": "「オーバーウォッチ®」",
     "url": "https://store.steampowered.com/app/2357570/",
     "app_id": "2357570",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
+  },
+  {
+    "rank": 6,
+    "title": "Japanese Ramen Simulator",
+    "url": "https://store.steampowered.com/app/4968640/",
+    "app_id": "4968640",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
     "rank": 7,
-    "title": "Street Fighter 6",
-    "url": "https://store.steampowered.com/app/1364780/",
-    "app_id": "1364780",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
-  },
-  {
-    "rank": 8,
     "title": "Wuthering Waves",
     "url": "https://store.steampowered.com/app/3513350/",
     "app_id": "3513350",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
+  },
+  {
+    "rank": 8,
+    "title": "Street Fighter 6",
+    "url": "https://store.steampowered.com/app/1364780/",
+    "app_id": "1364780",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
     "rank": 9,
@@ -78,43 +78,43 @@
     "app_id": "4508340",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
     "rank": 10,
-    "title": "デッドバイデイライト",
-    "url": "https://store.steampowered.com/app/381210/",
-    "app_id": "381210",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
-  },
-  {
-    "rank": 11,
     "title": "ACE COMBAT 8: WINGS OF THEVE",
     "url": "https://store.steampowered.com/app/2288340/",
     "app_id": "2288340",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
-    "rank": 12,
+    "rank": 11,
     "title": "ホロライブドリームス",
     "url": "https://store.steampowered.com/app/4282500/",
     "app_id": "4282500",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
-    "rank": 13,
+    "rank": 12,
     "title": "We Were Here Tomorrow",
     "url": "https://store.steampowered.com/app/2315050/",
     "app_id": "2315050",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
+  },
+  {
+    "rank": 13,
+    "title": "デッドバイデイライト",
+    "url": "https://store.steampowered.com/app/381210/",
+    "app_id": "381210",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
     "rank": 14,
@@ -123,7 +123,7 @@
     "app_id": "1091500",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
     "rank": 15,
@@ -132,7 +132,7 @@
     "app_id": "438100",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
     "rank": 16,
@@ -141,7 +141,7 @@
     "app_id": "2764370",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
     "rank": 17,
@@ -150,25 +150,25 @@
     "app_id": "570",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
     "rank": 18,
-    "title": "Yu-Gi-Oh! Master Duel",
-    "url": "https://store.steampowered.com/app/1449850/",
-    "app_id": "1449850",
+    "title": "ARK: Survival Ascended",
+    "url": "https://store.steampowered.com/app/2399830/",
+    "app_id": "2399830",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
     "rank": 19,
-    "title": "eFootball™",
-    "url": "https://store.steampowered.com/app/1665460/",
-    "app_id": "1665460",
+    "title": "ARC Raiders",
+    "url": "https://store.steampowered.com/app/1808500/",
+    "app_id": "1808500",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
     "rank": 20,
@@ -177,34 +177,34 @@
     "app_id": "4126040",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
     "rank": 21,
-    "title": "ARK: Survival Ascended",
-    "url": "https://store.steampowered.com/app/2399830/",
-    "app_id": "2399830",
+    "title": "テイルズ オブ エターニア リマスター",
+    "url": "https://store.steampowered.com/app/3470960/",
+    "app_id": "3470960",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
     "rank": 22,
-    "title": "ARC Raiders",
-    "url": "https://store.steampowered.com/app/1808500/",
-    "app_id": "1808500",
+    "title": "WARDOGS",
+    "url": "https://store.steampowered.com/app/1867240/",
+    "app_id": "1867240",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
     "rank": 23,
-    "title": "BOMBANANA!",
-    "url": "https://store.steampowered.com/app/4656000/",
-    "app_id": "4656000",
+    "title": "Yu-Gi-Oh! Master Duel",
+    "url": "https://store.steampowered.com/app/1449850/",
+    "app_id": "1449850",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
     "rank": 24,
@@ -213,142 +213,142 @@
     "app_id": "4080220",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
     "rank": 25,
-    "title": "テイルズ オブ エターニア リマスター",
-    "url": "https://store.steampowered.com/app/3470960/",
-    "app_id": "3470960",
+    "title": "eFootball™",
+    "url": "https://store.steampowered.com/app/1665460/",
+    "app_id": "1665460",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
     "rank": 26,
-    "title": "WARDOGS",
-    "url": "https://store.steampowered.com/app/1867240/",
-    "app_id": "1867240",
+    "title": "BOMBANANA!",
+    "url": "https://store.steampowered.com/app/4656000/",
+    "app_id": "4656000",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
     "rank": 27,
-    "title": "ゼンレスゾーンゼロ",
-    "url": "https://store.steampowered.com/app/4162040/",
-    "app_id": "4162040",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
-  },
-  {
-    "rank": 28,
-    "title": "Battlefield™ 6",
-    "url": "https://store.steampowered.com/app/2807960/",
-    "app_id": "2807960",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
-  },
-  {
-    "rank": 29,
     "title": "Enshrouded~霧の王国~",
     "url": "https://store.steampowered.com/app/1203620/",
     "app_id": "1203620",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
-    "rank": 30,
+    "rank": 28,
     "title": "モンスターハンターワイルズ",
     "url": "https://store.steampowered.com/app/2246340/",
     "app_id": "2246340",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
-    "rank": 31,
-    "title": "アークナイツ：エンドフィールド",
-    "url": "https://store.steampowered.com/app/4732690/",
-    "app_id": "4732690",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
-  },
-  {
-    "rank": 32,
-    "title": "サイバーパンク2077：仮初めの自由",
-    "url": "https://store.steampowered.com/app/2138330/",
-    "app_id": "2138330",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
-  },
-  {
-    "rank": 33,
-    "title": "サマナーズウォー: Sky Arena",
-    "url": "https://store.steampowered.com/app/2426960/",
-    "app_id": "2426960",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
-  },
-  {
-    "rank": 34,
+    "rank": 29,
     "title": "僕のヒーローアカデミア ULTRA RUMBLE",
     "url": "https://store.steampowered.com/app/1607250/",
     "app_id": "1607250",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
-    "rank": 35,
-    "title": "プラネット ズー 2",
-    "url": "https://store.steampowered.com/app/3219030/",
-    "app_id": "3219030",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
-  },
-  {
-    "rank": 36,
-    "title": "Escape from Tarkov",
-    "url": "https://store.steampowered.com/app/3932890/",
-    "app_id": "3932890",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
-  },
-  {
-    "rank": 37,
-    "title": "Arena Breakout: Infinite",
-    "url": "https://store.steampowered.com/app/2073620/",
-    "app_id": "2073620",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
-  },
-  {
-    "rank": 38,
-    "title": "アストラル☆パーティー",
-    "url": "https://store.steampowered.com/app/2622000/",
-    "app_id": "2622000",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
-  },
-  {
-    "rank": 39,
+    "rank": 30,
     "title": "HELLDIVERS™ 2",
     "url": "https://store.steampowered.com/app/553850/",
     "app_id": "553850",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
+  },
+  {
+    "rank": 31,
+    "title": "鬼武者 Way of the Sword",
+    "url": "https://store.steampowered.com/app/2638890/",
+    "app_id": "2638890",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-10-20T22:12:29.964493"
+  },
+  {
+    "rank": 32,
+    "title": "プラネット ズー 2",
+    "url": "https://store.steampowered.com/app/3219030/",
+    "app_id": "3219030",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-10-20T22:12:29.964493"
+  },
+  {
+    "rank": 33,
+    "title": "Escape from Tarkov",
+    "url": "https://store.steampowered.com/app/3932890/",
+    "app_id": "3932890",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-10-20T22:12:29.964493"
+  },
+  {
+    "rank": 34,
+    "title": "Arena Breakout: Infinite",
+    "url": "https://store.steampowered.com/app/2073620/",
+    "app_id": "2073620",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-10-20T22:12:29.964493"
+  },
+  {
+    "rank": 35,
+    "title": "Dragon's Dogma 2",
+    "url": "https://store.steampowered.com/app/2054970/",
+    "app_id": "2054970",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-10-20T22:12:29.964493"
+  },
+  {
+    "rank": 36,
+    "title": "Battlefield™ 6",
+    "url": "https://store.steampowered.com/app/2807960/",
+    "app_id": "2807960",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-10-20T22:12:29.964493"
+  },
+  {
+    "rank": 37,
+    "title": "サイバーパンク2077：仮初めの自由",
+    "url": "https://store.steampowered.com/app/2138330/",
+    "app_id": "2138330",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-10-20T22:12:29.964493"
+  },
+  {
+    "rank": 38,
+    "title": "アークナイツ：エンドフィールド",
+    "url": "https://store.steampowered.com/app/4732690/",
+    "app_id": "4732690",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-10-20T22:12:29.964493"
+  },
+  {
+    "rank": 39,
+    "title": "Warframe",
+    "url": "https://store.steampowered.com/app/230410/",
+    "app_id": "230410",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
     "rank": 40,
@@ -357,96 +357,96 @@
     "app_id": "2379740",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
     "rank": 41,
-    "title": "Core Keeper",
-    "url": "https://store.steampowered.com/app/1621690/",
-    "app_id": "1621690",
+    "title": "ゼンレスゾーンゼロ",
+    "url": "https://store.steampowered.com/app/4162040/",
+    "app_id": "4162040",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
     "rank": 42,
-    "title": "PUBG: BATTLEGROUNDS",
-    "url": "https://store.steampowered.com/app/578080/",
-    "app_id": "578080",
+    "title": "アストラル☆パーティー",
+    "url": "https://store.steampowered.com/app/2622000/",
+    "app_id": "2622000",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
     "rank": 43,
-    "title": "Dragon's Dogma 2",
-    "url": "https://store.steampowered.com/app/2054970/",
-    "app_id": "2054970",
+    "title": "サマナーズウォー: Sky Arena",
+    "url": "https://store.steampowered.com/app/2426960/",
+    "app_id": "2426960",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
     "rank": 44,
+    "title": "Fallout 76",
+    "url": "https://store.steampowered.com/app/1151340/",
+    "app_id": "1151340",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-10-20T22:12:29.964493"
+  },
+  {
+    "rank": 45,
     "title": "Limbus Company",
     "url": "https://store.steampowered.com/app/1973530/",
     "app_id": "1973530",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
-  },
-  {
-    "rank": 45,
-    "title": "Risk of Rain 2",
-    "url": "https://store.steampowered.com/app/632360/",
-    "app_id": "632360",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
     "rank": 46,
-    "title": "鬼武者 Way of the Sword",
-    "url": "https://store.steampowered.com/app/2638890/",
-    "app_id": "2638890",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
-  },
-  {
-    "rank": 47,
     "title": "『NBA 2K27』",
     "url": "https://store.steampowered.com/app/4356430/",
     "app_id": "4356430",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
+  },
+  {
+    "rank": 47,
+    "title": "Core Keeper",
+    "url": "https://store.steampowered.com/app/1621690/",
+    "app_id": "1621690",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
     "rank": 48,
-    "title": "Warframe",
-    "url": "https://store.steampowered.com/app/230410/",
-    "app_id": "230410",
+    "title": "Risk of Rain 2",
+    "url": "https://store.steampowered.com/app/632360/",
+    "app_id": "632360",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
     "rank": 49,
-    "title": "グランド・セフト・オートV エンハンスト",
-    "url": "https://store.steampowered.com/app/3240220/",
-    "app_id": "3240220",
+    "title": "PUBG: BATTLEGROUNDS",
+    "url": "https://store.steampowered.com/app/578080/",
+    "app_id": "578080",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
   },
   {
     "rank": 50,
-    "title": "ELDEN RING",
-    "url": "https://store.steampowered.com/app/1245620/",
-    "app_id": "1245620",
+    "title": "トーチライト：インフィニティ",
+    "url": "https://store.steampowered.com/app/1974050/",
+    "app_id": "1974050",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-10-20T18:57:54.672117"
+    "timestamp": "2026-10-20T22:12:29.964493"
   }
 ]
