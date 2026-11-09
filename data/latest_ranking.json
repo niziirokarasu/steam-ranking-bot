@@ -6,7 +6,7 @@
     "app_id": "3393110",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 2,
@@ -15,7 +15,7 @@
     "app_id": "1172470",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 3,
@@ -24,7 +24,7 @@
     "app_id": "1449850",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 4,
@@ -33,7 +33,7 @@
     "app_id": "2492040",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 5,
@@ -42,25 +42,25 @@
     "app_id": "3259780",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 6,
-    "title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
-    "url": "https://store.steampowered.com/app/4348910/",
-    "app_id": "4348910",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
-  },
-  {
-    "rank": 7,
     "title": "Potato Please",
     "url": "https://store.steampowered.com/app/5266240/",
     "app_id": "5266240",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
+  },
+  {
+    "rank": 7,
+    "title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+    "url": "https://store.steampowered.com/app/4348910/",
+    "app_id": "4348910",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 8,
@@ -69,7 +69,7 @@
     "app_id": "2399830",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 9,
@@ -78,34 +78,34 @@
     "app_id": "4435490",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 10,
-    "title": "Wuthering Waves",
-    "url": "https://store.steampowered.com/app/3513350/",
-    "app_id": "3513350",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
-  },
-  {
-    "rank": 11,
     "title": "「オーバーウォッチ®」",
     "url": "https://store.steampowered.com/app/2357570/",
     "app_id": "2357570",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
+  },
+  {
+    "rank": 11,
+    "title": "Wuthering Waves",
+    "url": "https://store.steampowered.com/app/3513350/",
+    "app_id": "3513350",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 12,
-    "title": "病能探偵",
-    "url": "https://store.steampowered.com/app/3432860/",
-    "app_id": "3432860",
+    "title": "空の軌跡 the 1st",
+    "url": "https://store.steampowered.com/app/3375780/",
+    "app_id": "3375780",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 13,
@@ -114,88 +114,88 @@
     "app_id": "4968640",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 14,
+    "title": "病能探偵",
+    "url": "https://store.steampowered.com/app/3432860/",
+    "app_id": "3432860",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-11-09T01:28:11.844814"
+  },
+  {
+    "rank": 15,
     "title": "NTE: Neverness to Everness",
     "url": "https://store.steampowered.com/app/4508340/",
     "app_id": "4508340",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
-  },
-  {
-    "rank": 15,
-    "title": "空の軌跡 the 1st",
-    "url": "https://store.steampowered.com/app/3375780/",
-    "app_id": "3375780",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 16,
-    "title": "ゼンレスゾーンゼロ",
-    "url": "https://store.steampowered.com/app/4162040/",
-    "app_id": "4162040",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
-  },
-  {
-    "rank": 17,
     "title": "FINAL FANTASY XIV Online",
     "url": "https://store.steampowered.com/app/39210/",
     "app_id": "39210",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
-    "rank": 18,
-    "title": "PUBG: BATTLEGROUNDS",
-    "url": "https://store.steampowered.com/app/578080/",
-    "app_id": "578080",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
-  },
-  {
-    "rank": 19,
+    "rank": 17,
     "title": "ACE COMBAT 8: WINGS OF THEVE",
     "url": "https://store.steampowered.com/app/2288340/",
     "app_id": "2288340",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
+  },
+  {
+    "rank": 18,
+    "title": "ゼンレスゾーンゼロ",
+    "url": "https://store.steampowered.com/app/4162040/",
+    "app_id": "4162040",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-11-09T01:28:11.844814"
+  },
+  {
+    "rank": 19,
+    "title": "Football Manager 27",
+    "url": "https://store.steampowered.com/app/4530370/",
+    "app_id": "4530370",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 20,
+    "title": "星の翼",
+    "url": "https://store.steampowered.com/app/2764370/",
+    "app_id": "2764370",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-11-09T01:28:11.844814"
+  },
+  {
+    "rank": 21,
     "title": "デッドバイデイライト",
     "url": "https://store.steampowered.com/app/381210/",
     "app_id": "381210",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
-  },
-  {
-    "rank": 21,
-    "title": "Street Fighter 6",
-    "url": "https://store.steampowered.com/app/1364780/",
-    "app_id": "1364780",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 22,
-    "title": "Find The Needle",
-    "url": "https://store.steampowered.com/app/5160800/",
-    "app_id": "5160800",
+    "title": "Phantom Blade Zero",
+    "url": "https://store.steampowered.com/app/4115450/",
+    "app_id": "4115450",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 23,
@@ -204,52 +204,52 @@
     "app_id": "1211600",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 24,
-    "title": "Phantom Blade Zero",
-    "url": "https://store.steampowered.com/app/4115450/",
-    "app_id": "4115450",
+    "title": "Find The Needle",
+    "url": "https://store.steampowered.com/app/5160800/",
+    "app_id": "5160800",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 25,
+    "title": "Street Fighter 6",
+    "url": "https://store.steampowered.com/app/1364780/",
+    "app_id": "1364780",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-11-09T01:28:11.844814"
+  },
+  {
+    "rank": 26,
     "title": "Moon Sweepers",
     "url": "https://store.steampowered.com/app/5335510/",
     "app_id": "5335510",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
-  },
-  {
-    "rank": 26,
-    "title": "星の翼",
-    "url": "https://store.steampowered.com/app/2764370/",
-    "app_id": "2764370",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 27,
-    "title": "Shadowverse: Worlds Beyond",
-    "url": "https://store.steampowered.com/app/2584990/",
-    "app_id": "2584990",
+    "title": "PUBG: BATTLEGROUNDS",
+    "url": "https://store.steampowered.com/app/578080/",
+    "app_id": "578080",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 28,
-    "title": "Football Manager 27",
-    "url": "https://store.steampowered.com/app/4530370/",
-    "app_id": "4530370",
+    "title": "FINAL FANTASY XIV: Evercold",
+    "url": "https://store.steampowered.com/app/4634220/",
+    "app_id": "4634220",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 29,
@@ -258,16 +258,16 @@
     "app_id": "3681610",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 30,
-    "title": "FINAL FANTASY XIV: Evercold",
-    "url": "https://store.steampowered.com/app/4634220/",
-    "app_id": "4634220",
+    "title": "Shadowverse: Worlds Beyond",
+    "url": "https://store.steampowered.com/app/2584990/",
+    "app_id": "2584990",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 31,
@@ -276,52 +276,52 @@
     "app_id": "3932890",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 32,
-    "title": "Counter-Strike 2",
-    "url": "https://store.steampowered.com/app/730/",
-    "app_id": "730",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
-  },
-  {
-    "rank": 33,
-    "title": "EA SPORTS FC™ 27",
-    "url": "https://store.steampowered.com/app/4080220/",
-    "app_id": "4080220",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
-  },
-  {
-    "rank": 34,
-    "title": "アニモ",
-    "url": "https://store.steampowered.com/app/4126040/",
-    "app_id": "4126040",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
-  },
-  {
-    "rank": 35,
     "title": "モンスターハンターワイルズ",
     "url": "https://store.steampowered.com/app/2246340/",
     "app_id": "2246340",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
+  },
+  {
+    "rank": 33,
+    "title": "アニモ",
+    "url": "https://store.steampowered.com/app/4126040/",
+    "app_id": "4126040",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-11-09T01:28:11.844814"
+  },
+  {
+    "rank": 34,
+    "title": "EA SPORTS FC™ 27",
+    "url": "https://store.steampowered.com/app/4080220/",
+    "app_id": "4080220",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-11-09T01:28:11.844814"
+  },
+  {
+    "rank": 35,
+    "title": "Counter-Strike 2",
+    "url": "https://store.steampowered.com/app/730/",
+    "app_id": "730",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 36,
-    "title": "ArcheAge Chronicles",
-    "url": "https://store.steampowered.com/app/3218230/",
-    "app_id": "3218230",
+    "title": "Path of Exile 2",
+    "url": "https://store.steampowered.com/app/2694490/",
+    "app_id": "2694490",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 37,
@@ -330,79 +330,79 @@
     "app_id": "2868840",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 38,
-    "title": "Call of Duty®: Warzone™",
-    "url": "https://store.steampowered.com/app/1962663/",
-    "app_id": "1962663",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
-  },
-  {
-    "rank": 39,
     "title": "鬼武者 Way of the Sword",
     "url": "https://store.steampowered.com/app/2638890/",
     "app_id": "2638890",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
+  },
+  {
+    "rank": 39,
+    "title": "ArcheAge Chronicles",
+    "url": "https://store.steampowered.com/app/3218230/",
+    "app_id": "3218230",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 40,
-    "title": "Once Human",
-    "url": "https://store.steampowered.com/app/2139460/",
-    "app_id": "2139460",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
-  },
-  {
-    "rank": 41,
     "title": "餓狼伝説 CotW シーズンパス2",
     "url": "https://store.steampowered.com/app/4070950/",
     "app_id": "4070950",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
+  },
+  {
+    "rank": 41,
+    "title": "Call of Duty®: Warzone™",
+    "url": "https://store.steampowered.com/app/1962663/",
+    "app_id": "1962663",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 42,
-    "title": "アノマリス／ANOMALITH",
-    "url": "https://store.steampowered.com/app/4017880/",
-    "app_id": "4017880",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
-  },
-  {
-    "rank": 43,
     "title": "僕のヒーローアカデミア ULTRA RUMBLE",
     "url": "https://store.steampowered.com/app/1607250/",
     "app_id": "1607250",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
+  },
+  {
+    "rank": 43,
+    "title": "Limbus Company",
+    "url": "https://store.steampowered.com/app/1973530/",
+    "app_id": "1973530",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 44,
+    "title": "ELDEN RING",
+    "url": "https://store.steampowered.com/app/1245620/",
+    "app_id": "1245620",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-11-09T01:28:11.844814"
+  },
+  {
+    "rank": 45,
     "title": "Warframe",
     "url": "https://store.steampowered.com/app/230410/",
     "app_id": "230410",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
-  },
-  {
-    "rank": 45,
-    "title": "CODE VEIN II",
-    "url": "https://store.steampowered.com/app/2362060/",
-    "app_id": "2362060",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 46,
@@ -411,42 +411,42 @@
     "app_id": "3241660",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 47,
+    "title": "地球防衛軍６",
+    "url": "https://store.steampowered.com/app/2291060/",
+    "app_id": "2291060",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-11-09T01:28:11.844814"
+  },
+  {
+    "rank": 48,
     "title": "Rust",
     "url": "https://store.steampowered.com/app/252490/",
     "app_id": "252490",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
-  },
-  {
-    "rank": 48,
-    "title": "Limbus Company",
-    "url": "https://store.steampowered.com/app/1973530/",
-    "app_id": "1973530",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
   },
   {
     "rank": 49,
+    "title": "Once Human",
+    "url": "https://store.steampowered.com/app/2139460/",
+    "app_id": "2139460",
+    "price": "",
+    "is_free": false,
+    "timestamp": "2026-11-09T01:28:11.844814"
+  },
+  {
+    "rank": 50,
     "title": "Queen's Domain",
     "url": "https://store.steampowered.com/app/1799840/",
     "app_id": "1799840",
     "price": "",
     "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
-  },
-  {
-    "rank": 50,
-    "title": "ELDEN RING",
-    "url": "https://store.steampowered.com/app/1245620/",
-    "app_id": "1245620",
-    "price": "",
-    "is_free": false,
-    "timestamp": "2026-11-08T21:45:16.445561"
+    "timestamp": "2026-11-09T01:28:11.844814"
   }
 ]
